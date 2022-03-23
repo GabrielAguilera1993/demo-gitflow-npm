@@ -50,3 +50,6 @@ $ git flow init
 
 git flow finish release -> merges & tags
 npm version -> bumps version, commits & tags
+
+ # test
+  
