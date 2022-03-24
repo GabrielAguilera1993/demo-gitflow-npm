@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dherges/npm-version-git-flow/issues"
   },
-  "homepage": "https://github.com/dherges/npm-version-git-flow#readme"
+  "homepage": "https://github.com/dherges/npm-version-git-flow#readme",
+  "dependencies": {
+    "git-flow-workflow": "^1.0.0"
+  }
 }
